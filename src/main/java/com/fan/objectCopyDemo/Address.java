@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * java浅拷贝demo
+ * java拷贝demo需要用到的类
  *
  * @author fan.wenqian
  * @date 2022/9/6
